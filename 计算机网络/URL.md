@@ -1,6 +1,8 @@
 # URL
 
-[参考]: https://blog.csdn.net/weixin_53436351/article/details/123833107?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169674339516800192297243%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=169674339516800192297243&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-123833107-null-null.142^v95^chatgptT3_1&amp;utm_term=URL&amp;spm=1018.2226.3001.4187
+[参考](https://blog.csdn.net/weixin_53436351/article/details/123833107?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169674339516800192297243%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=169674339516800192297243&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-123833107-null-null.142^v95^chatgptT3_1&amp;utm_term=URL&amp;spm=1018.2226.3001.4187)
+
+[参考：小林coding图解网络](https://xiaolincoding.com/network/)
 
 ## URL是什么
 
@@ -9,6 +11,8 @@
 统一资源定位系统是专为标识Internet网上资源位置而设置的一种编址方式，平时所说的网页地址指的即是URL。互联网上的每个文件都有一个唯一的URL，它包含的信息指出文件的位置以及浏览器应该怎么处理它。
 
 ## URL组成/结构
+
+![image-20231008141403028](https://gitee.com/zhengzhivon/images/raw/master/imgs/image-20231008141403028.png)
 
 **协议+域名(IP地址)+资源路径+查询参数**
 
